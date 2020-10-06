@@ -5,6 +5,7 @@
 - 📒 Learning && Living
 - 📫 [LinkedIn](https://www.linkedin.com/in/dhruvil-dave/)
 
+I was leading a miserable life then i found github emojis :smile:
 <!--
 **dhruvildave/dhruvildave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
