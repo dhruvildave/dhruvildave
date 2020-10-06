@@ -3,7 +3,7 @@
 - 🌱 Loves C, C++, Python, Go, TypeScript, Linux && Music
 - 🔭 Deep Learning, Machine Learning, Data Science, Web development && Programming Languages
 - 📒 Learning && Living
-- Mai bohout acha admi hu
+- 😄 Mai bohout acha admi hu
 - 📫 [LinkedIn](https://www.linkedin.com/in/dhruvil-dave/)
 
 <!--
