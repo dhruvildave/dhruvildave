@@ -4,6 +4,7 @@
 - 🔭 Deep Learning, Machine Learning, Data Science, Web development && Programming Languages
 - 📒 Learning && Living
 - 📫 [LinkedIn](https://www.linkedin.com/in/dhruvil-dave/)
+- 🌆 [Kaggle](https://www.kaggle.com/dhruvildave)
 
 <!--
 **dhruvildave/dhruvildave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
