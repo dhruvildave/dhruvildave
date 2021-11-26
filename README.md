@@ -6,6 +6,13 @@
 - 📫 [LinkedIn](https://www.linkedin.com/in/dhruvil-dave/)
 - 🌆 [Kaggle](https://www.kaggle.com/dhruvildave)
 
+### My journey to Kaggle Grandmaster
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/discussion)
+
 <!--
 **dhruvildave/dhruvildave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
