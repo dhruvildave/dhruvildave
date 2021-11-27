@@ -8,11 +8,12 @@
 
 ### My journey to Kaggle Grandmaster
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/discussion)
-
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/competition" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/dataset" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/notebook" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/discussion" />
+</p>
 <!--
 **dhruvildave/dhruvildave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
