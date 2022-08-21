@@ -6,6 +6,8 @@
 - 📫 [LinkedIn](https://www.linkedin.com/in/dhruvil-dave/)
 - 🌆 [Kaggle](https://www.kaggle.com/dhruvildave)
 
+Find my paper here: [Unicode Aware Sanskrit Transliteration](https://arxiv.org/abs/2203.14277)
+
 ### My journey to Kaggle Grandmaster
 
 <p align="center">
