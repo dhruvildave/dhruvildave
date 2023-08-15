@@ -8,6 +8,7 @@
 
 Find my paper here: [Unicode Aware Sanskrit Transliteration](https://arxiv.org/abs/2203.14277)
 
+<!--
 ### My journey to Kaggle Grandmaster
 
 <p align="center">
@@ -16,6 +17,8 @@ Find my paper here: [Unicode Aware Sanskrit Transliteration](https://arxiv.org/a
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/notebook" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dhruvildave/discussion" />
 </p>
+-->
+
 <!--
 **dhruvildave/dhruvildave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
