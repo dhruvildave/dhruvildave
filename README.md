@@ -3,7 +3,7 @@
 - 🌱 Loves C, C++, Java, Kotlin, Python, Go, TypeScript, Linux && Music
 - 🔭 Deep Learning, Machine Learning, Data Science, Web development && Programming Languages
 - 📒 Learning && Living
-- 📫 [LinkedIn](https://www.linkedin.com/in/dhruvil-dave/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/dhruvildave/)
 - 🌆 [Kaggle](https://www.kaggle.com/dhruvildave)
 
 Find my paper here: [Unicode Aware Sanskrit Transliteration](https://arxiv.org/abs/2203.14277)
