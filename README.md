@@ -1,12 +1,12 @@
 ### hello, world! 👋
 
-- 🌱 Loves C, C++, Java, Kotlin, Python, Go, TypeScript, Linux && Music
+- 🌱 Loves C, C++, Java, Kotlin, Python, Go, Rust, TypeScript, Linux && Music
 - 🔭 Deep Learning, Machine Learning, Data Science, Web development && Programming Languages
 - 📒 Learning && Living
 - 📫 [LinkedIn](https://www.linkedin.com/in/dhruvildave/)
 - 🌆 [Kaggle](https://www.kaggle.com/dhruvildave)
 
-Find my paper here: [Unicode Aware Sanskrit Transliteration](https://arxiv.org/abs/2203.14277)
+Find my paper here: [Unicode Aware Saṃskṛta Transliteration](https://arxiv.org/html/2203.14277)
 
 <!--
 ### My journey to Kaggle Grandmaster
